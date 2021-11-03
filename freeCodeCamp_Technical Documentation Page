@@ -2,9 +2,9 @@
 <html lang="en" dir="ltr">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <head>
-<meta charset="utf-8">
-<meta name="website" content="Technical Documentation Page">
-<title>Technical Documentation Page</title>
+  <meta charset="utf-8">
+  <meta name="website" content="Technical Documentation Page">
+  <title>Technical Documentation Page</title>
 <style>
 * {
   background-color: #1c1e39;

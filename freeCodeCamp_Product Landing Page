@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" dir="ltr">
 <link href="https://fonts.googleapis.com/css2?family=Lato&family=Oswald&family=Pacifico&display=swap" rel="stylesheet">
-  <head>
-    <meta charset="utf-8">
-    <meta name="website" content="Product Landing Page">
-    <title>Product Landing Page</title>
-
-  <style>
+<head>
+  <meta charset="utf-8">
+  <meta name="website" content="Product Landing Page">
+  <title>Product Landing Page</title>
+<style>
 * {
   font-family: 'Lato', sans-serif;
   font-size: 15px;
